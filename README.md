@@ -67,7 +67,7 @@ Projects involving automation, data analysis, scripting, notebooks, and end-to-e
 
 | Project | Category | Tools | Description | Status |
 |---|---|---|---|---|
-| [Poisson Distribution Prediction](./Excel/poisson-distribution-prediction/) | Excel | Excel, Probability Modelling | Predictive Excel project using Poisson distribution concepts for event probability analysis. | In Progress |
+| [Poisson Distribution Prediction](./Excel/poisson-distribution-prediction/) | Excel | Excel, Probability Modelling | Predictive Excel project using Poisson distribution concepts for event probability analysis. | Completed |
 | More projects coming soon | Excel / SQL / Python | Various | Additional portfolio projects will be added as this repository grows. | Coming Soon |
 
 
